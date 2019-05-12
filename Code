@@ -1,6 +1,5 @@
-Code
 
-import random as rand
+import random as rand //file
 
 # Open the file is input is not there create one
 try:
@@ -13,6 +12,8 @@ except IOError:
     string = """\
 Scrambling word is very interesting. Because even if they are scrambled,it doesnot scrambled on our reading.If you dont feel it scramble these file and read again.Sounds suprisimg
 ,isn't it.Because we don't read letter by letter,we read whole word as a whole.
+
+//word 
 
 
 """.strip()
